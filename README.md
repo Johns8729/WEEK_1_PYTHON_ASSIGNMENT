@@ -91,6 +91,3 @@ Total collected during the day: $7.50
 
 
 
-
-
-Developed as a basic Python practice project for handling input validation, loops, and data storage.
