@@ -87,7 +87,10 @@ Total collected during the day: $7.50
 
 ---
 ## 🔄 Program Flow Diagram
-<img width="570" height="1070" alt="QJ drawio" src="https://github.com/user-attachments/assets/8a7009c7-2c8b-4d86-b3d1-b14eae114cdd" />
+<img width="570" height="1070" alt="QJ drawio" src="https://github.com/user-attachments/assets/8a7009c7-2c8b-4d86-b3d1-b14eae114cdd" /> 
+---
+## Repository 
 
+https://github.com/Johns8729/WEEK_1_PYTHON_ASSIGNMENT/edit/main/README.md
 
 
